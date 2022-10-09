@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DrSchip
-- 👀 I’m interested in Pyhonic and Medicine
+- 👀 I’m interested in Pythonic and Medicine
 - 🌱 I’m currently learning Python and Hematology
 - 💞️ I’m looking to collaborate with other scientists 
 - 📫 How to reach me...
