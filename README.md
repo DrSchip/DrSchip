@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DrSchip
 - 👀 I’m interested in Pythonic and Medicine
 - 🌱 I’m currently learning Python and Hematology
-- :wrench:Working as Hematologist (@UniUPO), 2nd level university master degree student in Genomic Data Science (@UniPV)
+- :wrench: Working as a Hematologist at @UniUPO and currently a second-level university master's degree student in Genomic Data Science at @UniPV.
 - 💞️ I’m looking to collaborate with other scientists
 
 <!---
